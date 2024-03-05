@@ -1,6 +1,6 @@
 /*
 ชื่อเทมเพลต: Applight
-ผู้แต่ง: <a href="https://w3template.com/">เทมเพลต OS</a>
+ผู้แต่ง: <a href="https://w3template.com/">(เฉพาะเทมเพลต) OS</a>
 URI ผู้เขียน: https://w3template.com/
 ลิขสิทธิ์: 2045 © สงวนลิขสิทธิ์ | ออกแบบโดยW3Template
 ใบอนุญาต: ใช้งานฟรีภายใต้เงื่อนไขใบอนุญาตเทมเพลตฟรีของเรา
@@ -100,7 +100,7 @@ h6 {
 	color: #333;
 }
 .nav-scroll .nav-link:hover:after {
-	background-color: #2388ed;
+	background-color: #3312c4;
 }
 .nav-scroll .active {
 	position: relative;
@@ -227,7 +227,7 @@ h6 {
 	text-decoration:none;
 }
 .video-section {
-	background: url(images/kalasin3.jpg) no-repeat fixed center;
+	background: url(images/kasin11.jpg) no-repeat fixed center;
 	background-size: cover;
 	overflow: hidden;
 }
